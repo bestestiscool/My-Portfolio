@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://DanielMakalski.github.io/",
   "engines": {
-    "node": "21.7.3"
+    "node": "20.2.0"
   },
   "dependencies": {
     "@material-ui/core": "^4.12.3",
