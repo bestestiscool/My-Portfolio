@@ -1,6 +1,6 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://danielmakalski.com', // Replace with your website URL
+  homepage: 'https://my-portfolio-zjhc.onrender.com', // Replace with your website URL
   title: 'DM',
 }
 
