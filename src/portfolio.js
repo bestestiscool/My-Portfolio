@@ -5,7 +5,7 @@ const header = {
 }
 
 const about = {
-  name: 'Daniel Makalski', 
+  name: 'Daniel Makalski',
   role: 'Full Stack Developer',
   description:
     'Passionate full stack developer skilled in React, PostgreSQL, Python, JavaScript, Django, Flask, CSS, and HTML. Committed to building efficient and scalable web applications.',
@@ -16,24 +16,37 @@ const about = {
   },
 }
 
-
 const projects = [
-  // Add your projects here
   {
     name: 'TechRepair-Experts',
     description:
-      'A brief description of your project. Explain what it does, the problem it solves, and any notable features.',
-    stack: ['React', 'JavaScript','Node','CSS','Bootstrap','HTML', 'PostgreSQL'], 
-    sourceCode: 'https://github.com/bestestiscool/TechRepair-Experts', 
-    livePreview: 'https://project-one-live.com', 
+      'A comprehensive tool for estimating device repair costs and showcasing related YouTube videos. Features a multi-step form with dynamic cost calculations and integrates YouTube API for video displays.',
+    stack: [
+      'React.js',
+      'Bootstrap',
+      'Express.js',
+      'Sequelize ORM',
+      'PostgreSQL',
+      'YouTube API',
+    ],
+    sourceCode: 'https://github.com/bestestiscool/TechRepair-Experts',
+    livePreview: 'https://techrepair-experts-live.com', // Replace with actual live URL
   },
   {
-    name: 'SpeakPeak',
+    name: 'SpeakPeak Dictionary',
     description:
-      'A brief description of your second project. Highlight its purpose and what technologies you used.',
-    stack: ['Django', 'Python',"Flask", "PostgreSQL", 'HTML', 'CSS'],
+      'A web application that allows users to search for word definitions and listen to pronunciations using the Merriam-Webster API.',
+    stack: [
+      'Django',
+      'Python',
+      'Flask',
+      'PostgreSQL',
+      'HTML',
+      'CSS',
+      'Merriam-Webster API',
+    ],
     sourceCode: 'https://github.com/bestestiscool/SpeakPeak',
-    livePreview: 'https://project-two-live.com',
+    livePreview: 'https://speakpeak-dictionary-live.com', // Replace with actual live URL
   },
   // Add more projects as needed
 ]
@@ -51,8 +64,7 @@ const skills = [
   'Git',
   'GitHub',
   'REST APIs',
-  'Flask',
-  'jQuery'
+  'jQuery',
   // Add any other skills you have
 ]
 
