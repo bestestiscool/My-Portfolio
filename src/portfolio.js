@@ -9,7 +9,7 @@ const about = {
   role: 'Full Stack Developer',
   description:
     'Passionate full stack developer skilled in React, PostgreSQL, Python, JavaScript, Django, Flask, CSS, and HTML. Committed to building efficient and scalable web applications.',
-  resume: 'https://drive.google.com/file/d/1HoI0FNGkvtfZqlIXw0zX-6E2SZmdhKD1/view', // Reference the resume in the public directory
+  resume: 'https://drive.google.com/file/d/1EY6o-qFnRbTqnR7DWtkg8fxWdVVFXGOe/view?usp=sharing', // Reference the resume in the public directory
   social: {
     linkedin: 'https://www.linkedin.com/in/danielmakalski',
     github: 'https://github.com/bestestiscool',
@@ -25,7 +25,7 @@ const projects = [
       'React.js',
       'Bootstrap',
       'Express.js',
-      'Sequelize ORM',
+      'Prisma',
       'PostgreSQL',
       'YouTube API',
     ],
@@ -48,6 +48,20 @@ const projects = [
     sourceCode: 'https://github.com/bestestiscool/SpeakPeak',
     livePreview: 'https://speakpeak-dictionary-live.com', // Replace with actual live URL
   },
+  {
+    name: 'Next.js Fundamentals Project',
+    description:
+      'A modern web application built as part of the Vercel Next.js course, featuring server-side rendering, static site generation, and optimized API routes. Deployed on Vercel for seamless performance.',
+    stack: [
+      'Next.js',
+      'React',
+      'JavaScript',
+      'CSS',
+      'Vercel',
+    ],
+    sourceCode: 'https://github.com/bestestiscool/nextjs-dashboard', 
+    livePreview: 'https://nextjs-dashboard-sigma-two-95.vercel.app/', 
+  },
   // Add more projects as needed
 ]
 
@@ -65,6 +79,7 @@ const skills = [
   'GitHub',
   'REST APIs',
   'jQuery',
+  'NextJS'
   // Add any other skills you have
 ]
 
