@@ -9,7 +9,7 @@ const about = {
   role: 'Full Stack Developer',
   description:
     'Passionate full stack developer skilled in React, PostgreSQL, Python, JavaScript, Django, Flask, CSS, and HTML. Committed to building efficient and scalable web applications.',
-  resume: 'https://docs.google.com/document/d/1ds77I1Bl02dIsH3fMMOB-W3_PS9Grh4TnOYTKv0Ilq4/edit?usp=sharing', // Reference the resume in the public directory
+  resume: 'https://drive.google.com/file/d/1-zhWAWBsuCQygqnyQUYgNJJK2nrEmzSi/view?usp=sharing', // Reference the resume in the public directory
   social: {
     linkedin: 'https://www.linkedin.com/in/danielmakalski',
     github: 'https://github.com/bestestiscool',
